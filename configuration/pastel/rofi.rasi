@@ -1,7 +1,7 @@
 configuration {
     show-icons: true;
     icon-theme: "Tela-dark";
-    font: "Iosevka Nerd Font 14";
+    font: "Hack Nerd Font 18";
     display-drun: "";
     drun-display-format: "{name}";
 }
@@ -88,7 +88,7 @@ element-icon {
 }
 
 element-text {
-    font: "SF Pro Display 14";
+    font: "SF Pro Display 18";
     padding: 10 0 0 0;
     text-color: inherit;
     horizontal-align: 0.5;
