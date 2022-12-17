@@ -92,6 +92,7 @@ theme.titlebars_enabled = false
 
 -- Define layout icons
 theme.layout_tile = "~/.config/awesome/icons/layouts/tiled.png"
+theme.layout_tiletop = "~/.config/awesome/icons/layouts/tiledtop.png"
 theme.layout_floating = "~/.config/awesome/icons/layouts/floating.png"
 theme.layout_max = "~/.config/awesome/icons/layouts/maximized.png"
 
